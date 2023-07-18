@@ -1,4 +1,5 @@
 # Currency Shortcuts
+<img src="https://media.giphy.com/media/eVD46XHIqptSFfcEF2/giphy-downsized-large.gif" width="500" height="500">
 
 The Currency Conversion Shortcuts offer a seamless and automated solution to stay on top of currency rates, ensuring you never miss out on favorable rates for your conversations. Whether you frequently require conversions or have specific favorite currencies, these shortcuts simplify the process with just one tap:
 
@@ -7,6 +8,7 @@ The Currency Conversion Shortcuts offer a seamless and automated solution to sta
 - **[Favorite Rates](https://www.icloud.com/shortcuts/eac846e2f98b45479fff9ffd32c3ee76)**: With the "Favorite Rates" shortcut, you can preset your preferred currencies and instantly access their exchange rates whenever you need them. Stay ahead of the game with quick and easy conversions.
 
 ---
+
 *How It Helps*
 
 Automated Convenience: Forget the hassle of checking rates daily. The shortcuts automate the process, ensuring you get the latest rates effortlessly and on time, so you can make informed decisions.
@@ -41,24 +43,24 @@ One-Tap Solution: Tap once to get all the conversations you need. The shortcuts 
 
 - **User-friendly interface**: The shortcut uses a menu system to prompt the user to select the "From Currency" and "To Currency" from a list of editable options.
 
--**On The Go Favourites**: Preset the conversations you need frequently and get all the information in one tap. 
+- **On The Go Favourites**: Preset the conversations you need frequently and get all the information in one tap. 
 
 
 ---
 ## Installation
 To use either shortcut, follow these steps:
-1. Click on the link of your preffered shortcut.
-2. This shuold lead to your shorcuts app. Click `Add Shorcut`
+1. Click on the link of your preferred shortcut.
+2. This should lead to your shortcuts app. Click `Add Shorcut`
 
 ## Customisation 
 
-### Currency Alert
+### Daily Currency Rates
 
 You can customize the shortcut by modifying the following variables:
 
 - `Currency Sign`: Add or delete currencies depending upon your requirement
 
-### Currency Rates
+### Favourites Rates
 
 - `Currency Sign`: Add or delete preset conversations depending upon your requirement.
 - `Round`: You can decide upto which place you would like to round. (Default is Thousandths)
@@ -71,7 +73,7 @@ This script is compatible with macOS and IOS.
 
 ## Dependencies 
 
-No external dependencies are required to run this script.
+No external dependencies are required to run this shortcutx.
 
 ## License 
 
