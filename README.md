@@ -3,7 +3,7 @@
 
 The Currency Conversion Shortcuts offer a seamless and automated solution to stay on top of currency rates, ensuring you never miss out on favorable rates for your conversations. Whether you frequently require conversions or have specific favorite currencies, these shortcuts simplify the process with just one tap:
 
-- **[Daily Currency Rates](https://www.icloud.com/shortcuts/7046598cbccd46cebc8a936d5ebfd174)**: The "Daily Rates" shortcut fetches the latest exchange rates for your selected currencies. You no longer need to manually check rates, as it keeps you updated effortlessly.
+- **[Daily Currency Rates](https://www.icloud.com/shortcuts/c0efe563f1b14ce29783c39730dde49f)**: The "Daily Rates" shortcut fetches the latest exchange rates for your selected currencies. You no longer need to manually check rates, as it keeps you updated effortlessly.
 
 - **[Favorite Rates](https://www.icloud.com/shortcuts/eac846e2f98b45479fff9ffd32c3ee76)**: With the "Favorite Rates" shortcut, you can preset your preferred currencies and instantly access their exchange rates whenever you need them. Stay ahead of the game with quick and easy conversions.
 
